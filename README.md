@@ -9,7 +9,7 @@ This article explores how German consumers use digital coupons, promo codes, cas
 - Statistics about digital and mobile coupon usage
 
 ## Read the Full Article
-[Read the Article](YOUR-GITHUB-PAGES-ARTICLE-URL)
+[Read full article](https://islazoe732.github.io/Inside-Germany-s-Growing-Digital-Coupon-Culture/)
 
 ## Purpose
 To help readers understand how digital savings tools are changing online shopping habits in Germany.
